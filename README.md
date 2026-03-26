@@ -41,6 +41,16 @@ It helps in:
 
 ---
 
+## 📷 Results
+
+### Confusion Matrix
+![Confusion Matrix](svm_confusion.jpg)
+
+### Segmentation Output
+![Segmentation](svm_output.jpg)
+
+---
+
 ## ⚠️ Note
 
 NDVI preprocessing mentioned in the paper is not implemented due to dataset limitations.
